@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  font-family: cursive;
+}
+h1{
+  color: white;
+}
+body{
+  background-color: red;
+}
+img{
+  border: solid 4px white;
+  height: 250px;
+  width: 250px;
+}
+button{
+  font-family: monospace;
+  font-weight: bold;
+}
