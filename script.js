@@ -1,3 +1,1 @@
-function firstClick() {
-  document.getElementsById('ok').innerHTML="Ok Bro";
-}
+alert("Please click on button");
